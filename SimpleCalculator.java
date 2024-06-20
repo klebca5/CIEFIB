@@ -5,7 +5,7 @@ public class SimpleCalculator {
         double num2 = 5;
         
       
-        char operator = '*';
+        char operator = '-';
         
         double result = 0;
        
